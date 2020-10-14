@@ -14,4 +14,12 @@ Apart:
 
 - Art lover :art:
 
-- Traveler :mount_fuji:
+- Traveler :statue_of_liberty:
+
+## About me :man:
+
+- I'm currently studying an superior technician degree of web application development :computer:
+
+- I'm currently working mostly with #Java :coffee:
+
+- Ask me any questions and I will try to solve them :octocat: 
