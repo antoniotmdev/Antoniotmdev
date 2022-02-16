@@ -20,6 +20,6 @@ Apart:
 
 - I'm currently studying an superior technician degree of web application development :computer:
 
-- I'm currently working mostly with #Java :coffee:
+- I'm currently working mostly with JS 
 
 - Ask me any questions and I will try to solve them :octocat: 
