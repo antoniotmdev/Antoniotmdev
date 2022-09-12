@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/AntonioTrujillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-trujillo-aa74ba195/)](https://www.linkedin.com/in/antonio-trujillo-aa74ba195/) 
 ## Hello! :hand:
 
-I'm Antonio, I'm a web application developer, I like technology and being able to create a better world with it.
+I'm Antonio, I'm a web developer, I like technology and being able to create a better world with it.
 I like to share my code with friends and partners, sharing code makes you feel better. :wink:
 
 Apart:
@@ -18,8 +18,10 @@ Apart:
 
 ## About me :man:
 
-- I'm currently studying an superior technician degree of web application development :computer:
+- I'm a dynamic person, continually learning. :computer:
 
-- I'm currently working mostly with JS 
+- I really like working in groups.
+
+- I'm currently working mostly with JS, React. 
 
 - Ask me any questions and I will try to solve them :octocat: 
