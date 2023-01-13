@@ -2,7 +2,7 @@
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/-antonio1hua@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonio1hua@gmail.com)](mailto:antoniotmdev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-antoniotmdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonio1hua@gmail.com)](mailto:antoniotmdev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/AntonioTrujillo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-trujillo-aa74ba195/)](https://www.linkedin.com/in/antonio-trujillo-aa74ba195/) 
 ## Hello! :hand:
 
