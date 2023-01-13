@@ -10,7 +10,7 @@ I'm Antonio, I'm Fullstack developer, I like technology and being able to create
 I like to share my code with friends and partners, sharing code makes you feel better. :wink:
 
 Apart:
-- Basketball Coach :basketball:
+- Basketball Coach/Player :basketball:
 - Art lover :art:
 - Traveler :statue_of_liberty:
 
