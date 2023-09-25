@@ -20,6 +20,6 @@ Apart:
 
 - I really like working in groups.
 
-- I'm currently working mostly with JS, React. 
+- I'm currently working mostly with Java, Spring, Docker, SQL, React, Jira. 
 
 - Ask me any questions and I will try to solve them :octocat: 
