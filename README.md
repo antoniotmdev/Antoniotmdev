@@ -20,6 +20,6 @@ Apart:
 
 - I really like working in groups.
 
-- I'm currently working mostly with Java, Spring, Docker, SQL, React, Jira. 
+- I'm currently working mostly with Java, Spring, Docker, PostgreSQL, Angular, Jira. 
 
 - Ask me any questions and I will try to solve them :octocat: 
